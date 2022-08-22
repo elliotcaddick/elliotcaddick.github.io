@@ -5,7 +5,7 @@
   - [ ] current situation
   - [ ] internship I would like
   - [ ] languages I speak
-  - make the mail address clickable
+  - [ ] make the mail address clickable
 - [ ] Add a language preference (French & English)
 - [ ] Add a dark theme
 - [ ] Make all the page with the same color palet
