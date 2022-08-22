@@ -12,6 +12,3 @@
   - [x] change the social's button color
 - [ ] Have a nice presentation for the Soft Skills & Hard Skills
 - [ ] Complete the project I have done
-- [ ] Finish the 'Contact' part
-  - [ ] resize the 'Your message' box
-  - [ ] send an email when the Sumbit button is clicked
