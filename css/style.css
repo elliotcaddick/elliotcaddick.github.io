@@ -532,7 +532,7 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 40px;
   left: 50%;
   margin-left: -21px;
-  background-color: #98D7E6;
+  background-color: #FC8571;
   z-index: 100;
   display: table;
   -webkit-border-radius: 50%;
@@ -1554,6 +1554,20 @@ input[type="text"] {
   {
     border: 2px solid #FC8571;
   }
+}
+
+
+.item {
+  display:flex !important;
+  align-items:center !important;
+  justify-content:center !important;
+  margin-bottom: 10px;
+}
+
+.item-text {
+  line-height:1rem !important;
+  margin: 0 0 0 0 !important;
+  margin-left:10px !important;
 }
 
 /*# sourceMappingURL=style.css.map */
