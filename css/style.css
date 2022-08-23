@@ -1570,19 +1570,10 @@ input[type="text"] {
   margin-left:10px !important;
 }
 
-/* @media (max-width:991px) {
-  .invisible
-  {
-    display: none;
-  }
+.item:hover span
+{
+  color: #FC8571;
+  transition: 0.25s;
 }
-
-@media (min-width:992px) {
-  .invisible
-  {
-    visibility: hidden;
-  }
-} */
-
 
 /*# sourceMappingURL=style.css.map */
