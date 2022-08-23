@@ -102,6 +102,14 @@ h1, h2, h3, h4, h5, h6, figure {
   right: 0;
   background: rgba(152, 215, 230, 0.9);
 }
+.fh5co-cover .overlay-separator {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(152, 215, 230, 0.9);
+}
 #fh5co-header .display-t,
 .fh5co-cover .display-t {
   width: 100%;
@@ -1610,6 +1618,12 @@ button.active
 .btn-fr
 {
   background: url(/images/france.png);
+}
+
+.separation-div
+{
+  background-image: url(/images/innovation2.jpg);
+  height: 50px;
 }
 
 /*# sourceMappingURL=style.css.map */

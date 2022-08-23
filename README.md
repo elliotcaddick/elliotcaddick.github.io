@@ -1,7 +1,7 @@
 # Portfolio
 
 ## TODO
-- [ ] Add separation between 'About Me' and 'My Resume' and between 'My Resume' and 'Skills'
+- [x] Add separation between 'About Me' and 'My Resume' and between 'My Resume' and 'Skills'
 - [x] Write the 'About Me' part
   - [x] current situation
   - [x] internship I would like
