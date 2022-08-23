@@ -10,5 +10,5 @@
 - [ ] Add a dark theme
 - [x] Make all the page with the same color palet
   - [x] change the social's button color
-- [ ] Have a nice presentation for the Soft Skills & Hard Skills
+- [x] Have a nice presentation for the Soft Skills & Hard Skills
 - [ ] Complete the projects I have done
