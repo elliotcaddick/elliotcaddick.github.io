@@ -1570,10 +1570,46 @@ input[type="text"] {
   margin-left:10px !important;
 }
 
+.item span
+{
+  color: #4D4D4D;
+  transition: 0.25s;
+}
+
 .item:hover span
 {
   color: #FC8571;
   transition: 0.25s;
+}
+
+.langWrap
+{
+  margin-left: 10px;
+}
+
+a.active img
+{
+  border-bottom: 2px solid #FC8571;
+}
+
+.langWrap button
+{
+  border: none;
+}
+
+button.active
+{
+  border-bottom: 2px solid #FC8571;
+}
+
+.btn-en
+{
+  background: url(/images/united-kingdom.png);
+}
+
+.btn-fr
+{
+  background: url(/images/france.png);
 }
 
 /*# sourceMappingURL=style.css.map */
