@@ -1603,6 +1603,7 @@ a.active img
 .langWrap button
 {
   border: none;
+  background: none;
 }
 
 button.active
