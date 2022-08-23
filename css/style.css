@@ -1570,4 +1570,19 @@ input[type="text"] {
   margin-left:10px !important;
 }
 
+/* @media (max-width:991px) {
+  .invisible
+  {
+    display: none;
+  }
+}
+
+@media (min-width:992px) {
+  .invisible
+  {
+    visibility: hidden;
+  }
+} */
+
+
 /*# sourceMappingURL=style.css.map */
